@@ -43,7 +43,7 @@ our $mon3 = <
 # 4
 our $dow3 = <
     lun  mar  mer  jeu
-    ver  sam  dim
+    ven  sam  dim
 >;
 
 #=== TWO-LETTER ABBREVIATIONS ========================================
@@ -56,6 +56,8 @@ our $mon2 = <
 
 # 6
 our $dow2 = <
+     lu ma me je
+     ve sa di
 >;
 
 #=== MIXED-LENGTH ABBREVIATIONS ======================================
